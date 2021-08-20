@@ -9,18 +9,22 @@
 >>Service mode:
 >>1. Show remainings
 >>2. Add supplies
+>>3. Add recipe
+>>4. Add ingredient
 >>0. Back
 1
->>Coffe beans 400 g
+>>Coffee beans 400 g
 >>Sugar 300 g
 >>Milk 100 ml
 >>Water 2000 ml
->>3 cups
+>>Cups 3 pcs
 >>
 >>=====
 >>Service mode:
 >>1. Show remainings
 >>2. Add supplies
+>>3. Add recipe
+>>4. Add ingredient
 >>0. Back
 0
 >>
@@ -50,18 +54,22 @@
 >>Service mode:
 >>1. Show remainings
 >>2. Add supplies
+>>3. Add recipe
+>>4. Add ingredient
 >>0. Back
 1
->>Coffe beans 370 g
+>>Coffee beans 370 g
 >>Sugar 290 g
 >>Milk 50 ml
 >>Water 1950 ml
->>2 cups
+>>Cups 2 pcs
 >>
 >>=====
 >>Service mode:
 >>1. Show remainings
 >>2. Add supplies
+>>3. Add recipe
+>>4. Add ingredient
 >>0. Back
 0
 >>

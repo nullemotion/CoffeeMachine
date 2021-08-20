@@ -10,7 +10,7 @@
 >>1. Americano
 >>2. Capuccino
 >>0. Back
-3
+6
 >>Wrong choice :) Try again ;)
 >>
 >>=====
@@ -18,7 +18,7 @@
 >>1. Americano
 >>2. Capuccino
 >>0. Back
-s
+z
 >>Wrong choice :) Try again ;)
 >>
 >>=====
@@ -26,8 +26,7 @@ s
 >>1. Americano
 >>2. Capuccino
 >>0. Back
-1
->>Good choice, enjoy your coffee!
+0
 >>
 >>=====
 >>Hello, how can I help you?
