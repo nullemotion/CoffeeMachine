@@ -10,12 +10,20 @@
     <None Remove="Scenarios\01. Exit.txt" />
     <None Remove="Scenarios\02. WrongChoice.txt" />
     <None Remove="Scenarios\03. MakeCoffee.txt" />
+    <None Remove="Scenarios\04. ServiceMode.txt" />
+    <None Remove="Scenarios\05. ShowRemainings.txt" />
+    <None Remove="Scenarios\06. OutOfConsumables.txt" />
+    <None Remove="Scenarios\WrongChoiceInServiceMode.txt" />
   </ItemGroup>
 
   <ItemGroup>
     <EmbeddedResource Include="Scenarios\01. Exit.txt" />
     <EmbeddedResource Include="Scenarios\02. WrongChoice.txt" />
     <EmbeddedResource Include="Scenarios\03. MakeCoffee.txt" />
+    <EmbeddedResource Include="Scenarios\04. ServiceMode.txt" />
+    <EmbeddedResource Include="Scenarios\05. ShowRemainings.txt" />
+    <EmbeddedResource Include="Scenarios\06. OutOfConsumables.txt" />
+    <EmbeddedResource Include="Scenarios\WrongChoiceInServiceMode.txt" />
   </ItemGroup>
 
   <ItemGroup>
