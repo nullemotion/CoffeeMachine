@@ -3,32 +3,35 @@
 >>1. Make coffee
 >>2. Service mode
 >>0. Exit
-<<2
+2
 >>
 >>=====
 >>Service mode:
 >>1. Show remainings
+>>2. Add supplies
 >>0. Back
-<<3
+3
 >>Wrong choice :) Try again ;)
 >>
 >>=====
 >>Service mode:
 >>1. Show remainings
+>>2. Add supplies
 >>0. Back
-<<s
+s
 >>Wrong choice :) Try again ;)
 >>
 >>=====
 >>Service mode:
 >>1. Show remainings
+>>2. Add supplies
 >>0. Back
-<<0
+0
 >>
 >>=====
 >>Hello, how can I help you?
 >>1. Make coffee
 >>2. Service mode
 >>0. Exit
-<<0
+0
 >>Have a good day!
